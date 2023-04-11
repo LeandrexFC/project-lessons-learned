@@ -1,13 +1,13 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+<h1>Meu primeiro projeto em HTML e CSS</h1>
+Esse é o meu primeiro projeto criado usando as linguagens de HTML e CSS.<br>
+O projeto consiste em um site estático com algumas informações sobre mim.
+<br>
+<h2>Como executar</h2>
+Clique no botão "Code" (ou "Código") na parte superior da página.<br><br>
+Selecione a opção "Clone" e copie a URL do repositório.<br><br>
+Abra o terminal ou prompt de comando no seu computador e navegue até o diretório em que deseja clonar o repositório.<br><br>
+Execute o seguinte comando para clonar o repositório: git clone + (URL do repositório) <br><br>
+Após a clonagem do repositório, você pode abrir o arquivo index.html em um navegador web para visualizar o site. Basta clicar duas vezes no arquivo para abri-lo em seu navegador padrão.<br><br>
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
-
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<h2>Observações</h2>
+Esse projeto foi criado como parte do meu aprendizado em HTML e CSS. Algumas melhorias podem ser feitas para deixar o site mais dinâmico e interativo.
